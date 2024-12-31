@@ -1,0 +1,17 @@
+{
+	"video_keep_day": 7,
+	"cameras": [
+		{
+			"camera_name": "P1468",
+			"rtsp_url": "rtsp://root:pass@10.10.100.75/axis-media/media.amp?videocodec=h264&resolution=1920x1080&fps=10"
+		},
+		{
+			"camera_name": "pan",
+			"rtsp_url": "rtsp://root:Admin1234@10.10.100.69/Src/MediaInput/stream_2"
+		},
+		{
+			"camera_name": "P1378",
+			"rtsp_url": "rtsp://root:pass@10.10.100.88/axis-media/media.amp?videocodec=h264&resolution=1920x1080&fps=10"
+		}
+	]
+}
